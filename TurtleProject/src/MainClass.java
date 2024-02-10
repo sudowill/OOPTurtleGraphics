@@ -209,7 +209,7 @@ public class MainClass extends LBUGraphics {
 					
 						
 						
-					case "triangle": // NEED HELP FROM HARRY OR CORBIN CAUSE I HAVE NO CLUE HOW TO DO THIS
+					case "triangle":
 						int n = (parameter);
 						penDown();
 						forward(n);
