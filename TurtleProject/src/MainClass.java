@@ -32,7 +32,7 @@ public class MainClass extends LBUGraphics {
     public void about() // Overrides command to display my name whilst still making the turtle "dance"
     {
         super.about();
-        displayMessage("William Holmes");
+        displayMessage("Will");
     }
 
     public void RGB(int redValue, int greenValue, int blueValue) {
